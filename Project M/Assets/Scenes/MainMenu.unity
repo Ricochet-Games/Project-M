@@ -461,6 +461,63 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1001 &1663173001510494116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275508424903022858, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274372007745956781, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
+      propertyPath: m_Name
+      value: AudioManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf97f15795c0c9d439c4d034613a6b3a, type: 3}
 --- !u!1001 &7677014375014628171
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -472,6 +529,38 @@ PrefabInstance:
     - target: {fileID: 6094890470615434233, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
       propertyPath: m_Name
       value: Main Menu Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 7259037787168647854, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7259037787168647854, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7259037787168647854, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7259037787168647854, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360634581414327136, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360634581414327136, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360634581414327136, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360634581414327136, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9087161969010778881, guid: 9b75f35557f022a4883cedd054810a6f, type: 3}
       propertyPath: m_Pivot.x
@@ -567,3 +656,4 @@ SceneRoots:
   - {fileID: 1035830046}
   - {fileID: 7677014375014628171}
   - {fileID: 1396800262}
+  - {fileID: 1663173001510494116}
